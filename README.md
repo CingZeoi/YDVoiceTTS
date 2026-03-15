@@ -1,5 +1,7 @@
 # YDVoiceTTS: A Chinese Speech synthesis system from Yongde screen reader
 
+让历史的声音在新的时代重新回响——致敬中国盲人编程第一人，永德读屏软件开发者王永德老师。
+
 ## YDVoice TTS 永德音库
 
 > **复活二十年前[永德读屏软件](https://www.wangyongde.com/)的一套基于波形拼接技术实现的中文语音合成引擎**  
